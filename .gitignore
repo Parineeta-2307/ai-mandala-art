@@ -1,0 +1,19 @@
+.env
+# Node modules (should never go to GitHub)
+node_modules/
+
+# Builds / distribution
+.dist/
+dist/
+
+# Env files
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/Editor files
+.DS_Store
+.vscode/
