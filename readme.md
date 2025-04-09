@@ -1,4 +1,4 @@
-*# AI Mandala Art Generator 🎨 | HTML + CSS + Node.js*
+*AI Mandala Art Generator 🎨 | HTML + CSS + Node.js*
 
 The AI Mandala Art Generator with Scoring and Leaderboard is an interactive web-based application that combines Artificial Intelligence (AI) and generative art to create unique mandala designs based on user-inputted prompts. The project leverages the Stable Diffusion API from Hugging Face to generate visually appealing mandala images.
 
